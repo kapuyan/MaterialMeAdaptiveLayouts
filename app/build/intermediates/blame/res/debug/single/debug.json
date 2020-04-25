@@ -8,16 +8,16 @@
         "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\src\\main\\res\\drawable\\img_swimming.jpg"
     },
     {
-        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_running.jpg.flat",
+        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\src\\main\\res\\drawable\\img_running.jpg"
     },
     {
         "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_running.jpg.flat",
-        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\src\\main\\res\\drawable\\img_running.jpg"
+        "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\kevin\\Downloads\\android-fundamentals-apps-v2\\MaterialMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_cycling.jpg.flat",
